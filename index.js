@@ -1,7 +1,7 @@
 const weatherForm = document.querySelector(".weatherForm")
 const cityInput = document.querySelector(".cityInput")
 const card = document.querySelector(".card")
-const apiKey = "chave API"
+const apiKey = "86b6761bcfdbd6bbc7a349e0a11bdbd3"
 // https://home.openweathermap.org/api_keys
 
 weatherForm.addEventListener("submit", async event => {
